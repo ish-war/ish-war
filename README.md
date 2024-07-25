@@ -1,4 +1,4 @@
-![logo](https://github.com/ish-war/ish-war/blob/main/github%20gif.gif)
+![logo](https://github.com/ish-war/ish-war/blob/main/github%20gif3.gif)
 <h1 align="center">Hi 👋, I'm Ishwar Ambad</h1>
 <h3 align="center">Ambitious Data Scientist with analytical knowledge.</h3>
 
