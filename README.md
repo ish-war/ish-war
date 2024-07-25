@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/ishwar_ambad](https://linktr.ee/ishwar_ambad)
 
-- 💬 Ask me about **Machine Learning and Analytical tools.**
+- 💬 Ask me about **Python, SQL, Power BI, Tableau, Excel, Machine Learning and Analytical tools.**
 
 - 📫 How to reach me **ishwar.ambad@gmail.com**
 
